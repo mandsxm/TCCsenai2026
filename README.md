@@ -32,4 +32,4 @@ O Sistema de Controle de Almoxarifado permite gerenciar os itens cadastrados no 
 
 ## Orientação
 
-Trabalho de Conclusão de Curso apresentado no SENAI Afonso Pena, 2026, sob orientação de Roger e Viviane.
+Trabalho de Conclusão de Curso apresentado no SENAI Afonso Pena, 2026, sob orientação de Roger e Vivianne.

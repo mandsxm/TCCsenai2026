@@ -9,6 +9,7 @@ O Sistema de Controle de Almoxarifado permite gerenciar os itens cadastrados no 
 ## Funcionalidades
 
 - Tela de login com autenticação e controle de sessão
+- Senhas protegidas com hash **bcrypt** (nunca em texto puro)
 - Dois níveis de acesso: administrador e usuário comum
 - Tabela de itens cadastrados no almoxarifado
 - Tela de edição de itens, com opção de **entrada** e **saída** de estoque
